@@ -1,4 +1,4 @@
-(defproject prompt "0.1.0"
+(defproject prompt "0.1.1"
   :description "A simple library for providing an interactive prompt"
   :url "https://github.com/lackita/prompt"
   :license {:name "GPL v3"
