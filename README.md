@@ -4,7 +4,7 @@ A Clojure library allowing programs to include a simple prompt.
 
 ## Installation
 
-```[prompt "0.1.0"]```
+```[prompt "0.1.1"]```
 
 ## Usage
 
