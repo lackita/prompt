@@ -4,7 +4,7 @@ A Clojure library allowing programs to include a simple prompt.
 
 ## Installation
 
-```[prompt "0.1.1"]```
+[![Clojars Project](https://img.shields.io/clojars/v/prompt.svg)](https://clojars.org/prompt)
 
 ## Usage
 
